@@ -1,0 +1,38 @@
+{
+  "gameUpdates": [
+    {
+      "id": 1,
+      "title": "New Furniture Collection Added",
+      "excerpt": "We've added an exciting new furniture collection to make your decorating experience even more delightful!",
+      "fullText": "We've added an exciting new furniture collection to make your decorating experience even more delightful! The new collection includes kawaii bedroom sets, elegant living room furniture, and magical garden decor. Each piece has been carefully designed to bring joy and comfort to your virtual space. The update also includes improved visual effects and smoother animations for a more polished decorating experience.",
+      "date": "2025-01-15",
+      "image": "./pictures/KikiNew1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Performance Improvements",
+      "excerpt": "Major performance optimizations have been implemented to ensure smooth decorating on all devices.",
+      "fullText": "Major performance optimizations have been implemented to ensure smooth decorating on all devices. We've reduced loading times by 40% and improved frame rates across all platforms. The game now runs more efficiently on mobile devices while maintaining the same high-quality graphics. We've also fixed several minor bugs and improved the overall stability of the decorating system.",
+      "date": "2025-01-10",
+      "image": "./pictures/KikiNew2.jpg"
+    }
+  ],
+  "decorDiaries": [
+    {
+      "id": 1,
+      "title": "A Day in the Life of a Home Decorator",
+      "excerpt": "Follow the journey of a dedicated player as they master the art of home decoration.",
+      "fullText": "Follow the journey of a dedicated player as they master the art of home decoration. From their first tentative furniture placements to becoming a design expert, this diary chronicles the ups and downs of learning the game. Discover the strategies they developed, the challenges they faced, and the satisfaction of finally creating that perfect room. It's a story of creativity, skill development, and the joy of interior design.",
+      "date": "2025-01-12",
+      "image": "./pictures/KikiNew3.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Community Spotlight: Top Decorators",
+      "excerpt": "Meet the incredible players who have created the most beautiful homes in Kiki World.",
+      "fullText": "Meet the incredible players who have created the most beautiful homes in Kiki World. We interviewed several top decorators to learn their secrets, design strategies, and what makes the game so addictive for them. From casual players who enjoy quick decorating sessions to hardcore designers who spend hours perfecting their rooms, each player brings a unique perspective to the home decoration world.",
+      "date": "2025-01-08",
+      "image": "./pictures/KikiNew4.jpg"
+    }
+  ]
+}

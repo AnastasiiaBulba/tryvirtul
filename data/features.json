@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "id": 1,
+      "icon": "🏠",
+      "title": "Beautiful Room Layouts",
+      "description": "Transform empty spaces into stunning interiors with our diverse collection of room layouts and themes."
+    },
+    {
+      "id": 2,
+      "icon": "🎨",
+      "title": "Kawaii Furniture Collection",
+      "description": "Decorate with adorable kawaii furniture pieces designed to bring joy and comfort to your virtual home."
+    },
+    {
+      "id": 3,
+      "icon": "✨",
+      "title": "Magical Decor Items",
+      "description": "Add special touches with magical decor items that enhance the atmosphere of your dream home."
+    },
+    {
+      "id": 4,
+      "icon": "🪑",
+      "title": "Drag & Drop System",
+      "description": "Intuitive drag-and-drop mechanics make decorating easy and enjoyable for players of all ages."
+    },
+    {
+      "id": 5,
+      "icon": "🌟",
+      "title": "Endless Customization",
+      "description": "Create unique spaces with endless customization options and personal design preferences."
+    },
+    {
+      "id": 6,
+      "icon": "💫",
+      "title": "Relaxing Experience",
+      "description": "Enjoy a calming and therapeutic decorating experience perfect for unwinding and expressing creativity."
+    }
+  ]
+}

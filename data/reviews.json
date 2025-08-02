@@ -1,0 +1,40 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Emma Wilson",
+      "rating": 5,
+      "text": "Absolutely love this game! The kawaii furniture is so adorable and the decorating process is incredibly satisfying. Perfect for unwinding after a long day."
+    },
+    {
+      "id": 2,
+      "name": "Sophie Chen",
+      "rating": 5,
+      "text": "Perfect for relaxing and expressing creativity. The drag-and-drop mechanics are so intuitive and the results are always beautiful. Highly recommend!"
+    },
+    {
+      "id": 3,
+      "name": "Lily Rodriguez",
+      "rating": 4,
+      "text": "Great game to relax with. The graphics are stunning and the furniture selection is amazing. I can spend hours decorating different rooms!"
+    },
+    {
+      "id": 4,
+      "name": "Alex Thompson",
+      "rating": 5,
+      "text": "This game is pure joy! The kawaii aesthetic is so charming and the decorating mechanics are so much fun. Can't stop creating beautiful spaces!"
+    },
+    {
+      "id": 5,
+      "name": "Lisa Wang",
+      "rating": 4,
+      "text": "Simple controls but endless creativity. I love experimenting with different furniture combinations and creating unique room designs!"
+    },
+    {
+      "id": 6,
+      "name": "David Rodriguez",
+      "rating": 5,
+      "text": "Amazing decorating game! The room layouts are beautiful and the furniture collection is extensive. Perfect for both quick sessions and longer creative sessions."
+    }
+  ]
+}
