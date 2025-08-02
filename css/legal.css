@@ -1,7 +1,7 @@
 /* Legal Pages Styles */
 .legal-hero {
   padding: var(--spacing-xxl) 0;
-  padding-top: calc(var(--spacing-xxl) + 80px);
+  padding-top: 75px;
   background: linear-gradient(135deg, var(--background-color) 0%, #1e3c72 100%);
   text-align: center;
   position: relative;
