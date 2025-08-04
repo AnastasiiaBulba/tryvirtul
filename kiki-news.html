@@ -17,10 +17,52 @@
     <link rel="stylesheet" href="./css/cookie-banner.css" />
     <link rel="stylesheet" href="./css/header.css" />
     <link rel="stylesheet" href="./css/footer.css" />
+    <link rel="stylesheet" href="./css/hero.css" />
+    <link rel="stylesheet" href="./css/features.css" />
+    <link rel="stylesheet" href="./css/how-to-play.css" />
+    <link rel="stylesheet" href="./css/field.css" />
+    <link rel="stylesheet" href="./css/screenshots.css" />
+    <link rel="stylesheet" href="./css/statistics.css" />
+    <link rel="stylesheet" href="./css/testimonials.css" />
+    <link rel="stylesheet" href="./css/reviews.css" />
     <link rel="stylesheet" href="./css/news.css" />
   </head>
   <body>
-    <div id="header-container"></div>
+    <div id="header-container">
+      <header class="header fade-in">
+        <div class="header-container">
+          <a href="./" class="logo">
+            <div class="logo-icon">🏠</div>
+            <span>Tryvirtul.com</span>
+          </a>
+          
+          <nav class="nav">
+            <ul class="nav-list">
+              <li><a href="./" class="nav-link">Home</a></li>
+              <li><a href="./kiki-news.html" class="nav-link">Updates</a></li>
+              <li><a href="./kiki-contacts.html" class="nav-link">Support</a></li>
+            </ul>
+          </nav>
+          
+          <button class="mobile-menu-btn" aria-label="Toggle mobile menu">
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+        </div>
+        
+        <div class="mobile-menu">
+          <div class="mobile-menu-content">
+            <button class="mobile-close-btn" aria-label="Close mobile menu">×</button>
+            <ul class="mobile-menu-list">
+              <li><a href="./" class="mobile-menu-link">Home</a></li>
+              <li><a href="./kiki-news.html" class="mobile-menu-link">Updates</a></li>
+              <li><a href="./kiki-contacts.html" class="mobile-menu-link">Support</a></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+    </div>
 
     <main>
       <section class="news-hero">
@@ -231,7 +273,6 @@
 
     <script src="./js/utils.js"></script>
     <script src="./js/cookie-banner.js"></script>
-    <script src="./js/header.js"></script>
     <script src="./js/footer.js"></script>
     <script src="./js/news-simple.js"></script>
   </body>
